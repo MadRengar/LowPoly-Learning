@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D1A88817-ED18-5C78-DDBF-442AFD9B23E0}</ProjectGuid>
+    <ProjectGuid>{F2626201-360C-F375-5727-7CB34B19BAB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1062,7 +1062,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Polyperfect.Universal.csproj">
-      <Project>{96108D40-6114-4A8A-BD14-9EDABD83FD7A}</Project>
+      <Project>{7E4F566E-9D88-FB93-7264-7C0311008097}</Project>
       <Name>Polyperfect.Universal</Name>
     </ProjectReference>
   </ItemGroup>
